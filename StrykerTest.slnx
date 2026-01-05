@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BaseLibrary/BaseLibrary.csproj" />
+  <Project Path="BaseLibTests/BaseLibTests.csproj" />
+  <Project Path="FuncLibTests/FuncLibTests.csproj" />
+  <Project Path="FunctionsLibrary/FunctionsLibrary.csproj" />
+</Solution>
